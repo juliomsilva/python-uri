@@ -5,7 +5,7 @@ def main():
     A = int(input())
     B = int(input())
 
-    print("X = {}".format(A+B))
+    print("SOMA = {}".format(A+B))
 
 
 if __name__ == "__main__":
